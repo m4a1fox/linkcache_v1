@@ -13,10 +13,17 @@ html
         }
   body
     .wrapper
-      - if (userIsset == 'yes')
-          include includes/head_ok
-      - else
-          include includes/head
+      #head
+          .content
+              #logo.logo
+                  img(src="/images/logo.png")
+                  span Link Cache
+                  span.red first alfa
+
+              - if (userIsset == 'yes')
+                  include includes/head_ok
+              - else
+                  include includes/head
 
       #content
         .content

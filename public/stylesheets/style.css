@@ -42,6 +42,7 @@ p {
 }
 #head .content {
   padding-top: 30px;
+  position: relative;
 }
 #head .logo {
   width: 250px;
@@ -143,4 +144,9 @@ p.lead {
 }
 .links-table td .title a:hover {
   color: #fff;
+}
+#head .logo span.red {
+  font-size: 12px;
+  color: #f00;
+  position: absolute;
 }

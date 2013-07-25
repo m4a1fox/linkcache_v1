@@ -1,0 +1,17 @@
+#head
+    .content
+        #logo.logo
+            img(src="/images/logo.png")
+            span Link Cache
+
+        #log-in
+            form( method="post", action="/")
+                div
+                    span
+                        span.label Email :
+                        input(type="text", name="name", id="editEmployeeTitle")
+                    span
+                        span.label Password :
+                        input(type="text", name="password", id="editEmployeeName")
+                    span#editEmployeeSubmit
+                        input(type="submit", value="Save")

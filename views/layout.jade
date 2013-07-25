@@ -1,0 +1,25 @@
+doctype 5
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    script(type="text/javascript", src='/javascripts/init.js')
+    style
+        @font-face {
+            font-family: 'Josefin Sans Std Light';
+            font-style: normal;
+            font-weight: 400;
+            src: local('Josefin Sans Std Light'), local('JosefinSansStd-Light'), url(http://themes.googleusercontent.com/static/fonts/josefinsansstdlight/v4/doRWK9Qks0OQGenH-kW8nh9XlKRhh604dnNYUPyQQcrr7w4p9aSvGirXi6XmeXNA.woff) format('woff');
+        }
+  body
+    .wrapper
+      - if (userIsset == 'yes')
+          include includes/head_ok
+      - else
+          include includes/head
+
+      #content
+        .content
+            block content
+        div#push
+    include includes/footer

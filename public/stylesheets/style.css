@@ -1,0 +1,146 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  text-align: center;
+  text-stroke: 1px rgba(255,255,255,0.1);
+  color: #f6f6f6;
+  background: url("../images/bg.png");
+  font-family: Josefin Sans Std Light;
+  margin: 0 auto;
+  padding: 0;
+  height: 100%;
+}
+a {
+  color: #00b7ff;
+}
+html {
+  height: 100%;
+}
+body div.content {
+  width: 1000px;
+  margin: 0 auto;
+}
+p {
+  margin: 0 0 10px;
+}
+.wrapper {
+  height: auto !important;
+  min-height: 100%;
+  margin: 0 auto -60px;
+  height: 100%;
+}
+.lead {
+  margin-bottom: 20px;
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 30px;
+}
+#head {
+  height: 110px;
+  border-bottom: 1px solid #f6f6f6;
+}
+#head .content {
+  padding-top: 30px;
+}
+#head .logo {
+  width: 250px;
+  text-align: left;
+  float: left;
+}
+#head .logo span {
+  font-size: 42px;
+}
+#head #log-in {
+  text-align: right;
+  margin-top: 10px;
+}
+#head #log-in span {
+  margin-right: 10px;
+}
+#head #log-in span input {
+  outline: none;
+}
+#head #log-in input {
+  padding: 3px 5px;
+  border: 1px solid #fff;
+  background: transparent;
+  color: #fff;
+  outline: none;
+}
+#head #log-in input[type=text] {
+  width: 160px;
+}
+#head #log-in input[type=submit] {
+  cursor: pointer;
+}
+p.lead {
+  padding-top: 1.5%;
+  font-size: 24px;
+  line-height: 30px;
+}
+.explain {
+  text-align: left;
+  min-height: 310px;
+}
+.explain .img {
+  float: left;
+  margin-right: 30px;
+}
+.explain .text {
+  vertical-align: top;
+  font-size: 18px;
+  line-height: 24px;
+  padding: 20px 0;
+}
+.add-link {
+  text-align: center;
+}
+.add-link input {
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-family: Josefin Sans Std Light;
+  border: 1px solid #000;
+  outline: none;
+}
+.add-link input[type=text] {
+  width: 500px;
+  border-right: none;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.add-link input[type=submit] {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  margin-left: -1px;
+  color: #00b7ff;
+  background: #f6f6f6;
+  cursor: pointer;
+}
+.add-link input[type=submit]:hover {
+  color: #000;
+}
+#footer {
+  height: 60px;
+}
+#push {
+  height: 60px;
+}
+.links-table {
+  margin-top: 20px;
+  font-size: 16px;
+}
+.links-table td:first-child {
+  width: 110px;
+  padding: 20px 0;
+}
+.links-table td {
+  padding: 10px 0;
+}
+.links-table td .title {
+  padding-left: 20px;
+}
+.links-table td .title a:hover {
+  color: #fff;
+}

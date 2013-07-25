@@ -5,7 +5,7 @@
     <ignored path="linkcache_v.0.0.1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/layout.jade" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374774291956" ignored="false" />
-    <file path="/style.styl" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374774314987" ignored="false" />
+    <file path="/style.styl" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374775222077" ignored="false" />
     <file path="/package.json" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374766342828" ignored="false" />
     <file path="/head.jade" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374767527809" ignored="false" />
     <file path="/usage.jade" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374768361372" ignored="false" />
@@ -41,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.styl" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.styl" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/style.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="54" selection-start="1739" selection-end="1739" vertical-scroll-proportion="0.0">
+            <state line="8" column="41" selection-start="244" selection-end="244" vertical-scroll-proportion="0.20905924">
               <folding />
             </state>
           </provider>
@@ -81,15 +81,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jade" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/index.jade">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="0" selection-end="30" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="usage.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/usage.jade">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,10 +99,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user_content.jade" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="user_content.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/includes/user_content.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="36" selection-start="507" selection-end="507" vertical-scroll-proportion="0.41811848">
+            <state line="16" column="36" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -136,15 +127,15 @@
         <option value="$PROJECT_DIR$/public/javascripts/jq.js" />
         <option value="$PROJECT_DIR$/public/javascripts/init.js" />
         <option value="$PROJECT_DIR$/views/layout.jade" />
-        <option value="$PROJECT_DIR$/public/stylesheets/style.styl" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/views/includes/user_content.jade" />
+        <option value="$PROJECT_DIR$/public/stylesheets/style.styl" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1360" />
+    <option name="width" value="1280" />
     <option name="height" value="723" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -335,7 +326,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1360" height="723" extended-state="0" />
+    <frame x="0" y="22" width="1280" height="723" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -343,7 +334,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961948" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26580226" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -419,18 +410,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/views/new_user.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="23" selection-start="217" selection-end="217" vertical-scroll-proportion="-6.875">
@@ -496,13 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="54" selection-start="1739" selection-end="1739" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/init.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="36" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0">
@@ -530,7 +502,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/includes/user_content.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="36" selection-start="507" selection-end="507" vertical-scroll-proportion="0.41811848">
+        <state line="16" column="36" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="41" selection-start="244" selection-end="244" vertical-scroll-proportion="0.20905924">
           <folding />
         </state>
       </provider>

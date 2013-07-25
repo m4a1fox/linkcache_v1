@@ -109,6 +109,7 @@ p.lead {
   padding: 20px 0;
 }
 .explain .text div.lang-rus {
+  font-family: Josefin Sans Std Light Russian;
   display: none;
 }
 .add-link {

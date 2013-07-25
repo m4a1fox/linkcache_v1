@@ -118,11 +118,11 @@ app.get('/', function (req, res) {
     }else{
         res.render('index', {userIsset: userIsset});
     }
-
-
-
-
 });
+
+app.get('/usage', function(req, res){
+    res.render('usage');
+})
 
 //save new user
 app.post('/user/create', function (req, res) {

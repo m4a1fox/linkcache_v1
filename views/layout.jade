@@ -3,6 +3,7 @@ html
   head
     title= title
     link(rel='stylesheet', href='/stylesheets/style.css')
+    script(type="text/javascript", src='/javascripts/jq.js')
     script(type="text/javascript", src='/javascripts/init.js')
     style
         @font-face {
@@ -16,8 +17,9 @@ html
       #head
           .content
               #logo.logo
-                  img(src="/images/logo.png")
-                  span.slogan Link Cache
+                  a(href="/")
+                      img(src="/images/logo.png")
+                      span.slogan Link Cache
                   span.red first alfa
 
               - if (userIsset == 'yes')

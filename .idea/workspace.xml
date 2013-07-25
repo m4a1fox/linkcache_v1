@@ -14,7 +14,7 @@
     <file path="/init.js" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374769662717" ignored="false" />
     <file path="/user_content.jade" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374774760441" ignored="false" />
     <file path="/footer.jade" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374776918856" ignored="false" />
-    <file path="/technology.jade" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374778293272" ignored="false" />
+    <file path="/technology.jade" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374778826427" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.styl" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.styl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/style.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="177" column="19" selection-start="3172" selection-end="3172" vertical-scroll-proportion="0.71254355">
+            <state line="177" column="19" selection-start="3172" selection-end="3172" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -83,10 +83,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="technology.jade" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="technology.jade" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/technology.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="16" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+            <state line="30" column="65" selection-start="738" selection-end="738" vertical-scroll-proportion="0.78397214">
               <folding />
             </state>
           </provider>
@@ -141,8 +141,8 @@
         <option value="$PROJECT_DIR$/views/includes/user_content.jade" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/views/includes/footer.jade" />
-        <option value="$PROJECT_DIR$/views/technology.jade" />
         <option value="$PROJECT_DIR$/public/stylesheets/style.styl" />
+        <option value="$PROJECT_DIR$/views/technology.jade" />
       </list>
     </option>
   </component>
@@ -452,16 +452,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/technology.jade">
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="16" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+        <state line="177" column="19" selection-start="3172" selection-end="3172" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.styl">
+    <entry file="file://$PROJECT_DIR$/views/technology.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="177" column="19" selection-start="3172" selection-end="3172" vertical-scroll-proportion="0.71254355">
+        <state line="30" column="65" selection-start="738" selection-end="738" vertical-scroll-proportion="0.78397214">
           <folding />
         </state>
       </provider>

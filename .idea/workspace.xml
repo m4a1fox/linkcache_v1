@@ -5,7 +5,7 @@
     <ignored path="linkcache_v.0.0.1.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/layout.jade" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374764891135" ignored="false" />
-    <file path="/style.styl" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374764995838" ignored="false" />
+    <file path="/style.styl" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374765387227" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +43,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.styl" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.styl" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/style.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="134" column="16" selection-start="2350" selection-end="2350" vertical-scroll-proportion="0.0">
+            <state line="7" column="14" selection-start="190" selection-end="190" vertical-scroll-proportion="0.16962843">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bg.png" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="bg.png" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/images/bg.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -391,16 +391,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="134" column="16" selection-start="2350" selection-end="2350" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/images/bg.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="14" selection-start="190" selection-end="190" vertical-scroll-proportion="0.16962843">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

@@ -5,7 +5,7 @@ body {
   text-align: center;
   text-stroke: 1px rgba(255,255,255,0.1);
   color: #f6f6f6;
-  background: url("../images/bg.png");
+  background: #4d4d4d url("../images/bg.png");
   font-family: Josefin Sans Std Light;
   margin: 0 auto;
   padding: 0;

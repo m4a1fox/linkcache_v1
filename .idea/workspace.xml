@@ -6,6 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/layout.jade" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374764891135" ignored="false" />
     <file path="/style.styl" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374765387227" ignored="false" />
+    <file path="/package.json" changelist="8bd6209d-51e8-4e0e-97e7-002fb23dcc0c" time="1374766342828" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +44,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.styl" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.styl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/style.styl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="14" selection-start="190" selection-end="190" vertical-scroll-proportion="0.16962843">
+            <state line="33" column="21" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="18" selection-start="193" selection-end="193" vertical-scroll-proportion="0.25210086">
               <folding />
             </state>
           </provider>
@@ -110,6 +120,7 @@
         <option value="$PROJECT_DIR$/views/includes/head.jade" />
         <option value="$PROJECT_DIR$/views/layout.jade" />
         <option value="$PROJECT_DIR$/public/stylesheets/style.styl" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -241,6 +252,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linkcache_v.0.0.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linkcache_v.0.0.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -398,7 +423,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/style.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="14" selection-start="190" selection-end="190" vertical-scroll-proportion="0.16962843">
+        <state line="33" column="21" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="18" selection-start="193" selection-end="193" vertical-scroll-proportion="0.25210086">
           <folding />
         </state>
       </provider>

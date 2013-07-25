@@ -125,8 +125,8 @@ app.get('/', function (req, res) {
     }
 });
 
-app.get('/usage', function(req, res){
-    res.render('usage');
+app.get('/technology', function(req, res){
+    res.render('technology');
 })
 
 //save new user

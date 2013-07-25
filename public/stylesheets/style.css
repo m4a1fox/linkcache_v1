@@ -185,3 +185,27 @@ p.lead {
   color: #f00;
   text-decoration: underline;
 }
+div.technology {
+  text-align: left;
+}
+div.technology div {
+  border-bottom: 1px dashed #fff;
+}
+div.technology dt {
+  margin: 20px 0;
+  font-size: 32px;
+  display: inline-block;
+  min-width: 170px;
+}
+div.technology dd {
+  display: inline-block;
+  margin: 20px 35px;
+}
+div.technology dd a {
+  font-size: 28px;
+  text-decoration: none;
+}
+div.technology h1 {
+  text-align: center;
+  text-decoration: underline;
+}

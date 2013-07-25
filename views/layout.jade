@@ -6,10 +6,10 @@ html
     script(type="text/javascript", src='/javascripts/init.js')
     style
         @font-face {
-            font-family: 'Josefin Sans Std Light';
-            font-style: normal;
-            font-weight: 400;
-            src: local('Josefin Sans Std Light'), local('JosefinSansStd-Light'), url(http://themes.googleusercontent.com/static/fonts/josefinsansstdlight/v4/doRWK9Qks0OQGenH-kW8nh9XlKRhh604dnNYUPyQQcrr7w4p9aSvGirXi6XmeXNA.woff) format('woff');
+          font-family: 'Josefin Sans Std Light';
+          font-style: normal;
+          font-weight: 100;
+          src: local('Josefin Sans Thin'), local('JosefinSans-Thin'), url(http://themes.googleusercontent.com/static/fonts/josefinsans/v3/q9w3H4aeBxj0hZ8Osfi3d9kWwCWWHt2eabdCtA6ddDc.woff) format('woff');
         }
   body
     .wrapper
@@ -17,7 +17,7 @@ html
           .content
               #logo.logo
                   img(src="/images/logo.png")
-                  span Link Cache
+                  span.slogan Link Cache
                   span.red first alfa
 
               - if (userIsset == 'yes')

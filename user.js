@@ -29,6 +29,7 @@ EmployeeProvider.prototype.findAllLinks = function(user, callback) {
         else {
             links_collection.find(user).sort({date: -1}).toArray(function(error, results) {
                 if( error ) callback(error)
+
                 else callback(null, results)
             });
         }

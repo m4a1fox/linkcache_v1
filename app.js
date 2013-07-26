@@ -112,11 +112,11 @@ app.get('/', function (req, res) {
         }, function (error, emps) {
             for(var i = 0; i<emps.length; i++){
                 emps[i].date = emps[i].date.toDateString();
-                if(emps[i].title.split('//').length == 1){
-                    emps[i].link = 'http://'+ emps[i].title;
-                }else{
+//                if(emps[i].title.split('//').length == 1){
+//                    emps[i].link = 'http://'+ emps[i].title;
+//                }else{
                     emps[i].link = emps[i].title;
-                }
+//                }
             }
             res.render('index', {userIsset: userIsset, links: emps});
         });
